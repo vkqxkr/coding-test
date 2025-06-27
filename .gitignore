@@ -1,0 +1,15 @@
+# Mac
+.DS_Store
+
+# Pycharm
+.idea/
+.venv
+
+# Python
+__pycache__/
+*.pyc
+*.py[cod]
+*$py.class
+
+# Project
+media/
